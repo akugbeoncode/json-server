@@ -1,5 +1,26 @@
 {
-  "users": [],
+  "users": [
+    {
+      "name": "akugbe ode",
+      "email": "akugbeode@yahoo.com",
+      "imageUrl": null,
+      "reference": "9c52ce3c-70e7-4857-bef9-c4c452b48ab8",
+      "password": "5d92562e96bc19b032e6d3ecb4704aa30c13fa3fbea6e69ab004a54334555d4a",
+      "accountType": "Form Create User",
+      "createdAt": 1694109048610,
+      "id": 1
+    },
+    {
+      "name": "john doe",
+      "email": "johndoe@gmail.com",
+      "imageUrl": null,
+      "reference": "f7478193-89ee-4916-b5b1-8a1c4cdeda65",
+      "password": "90ecc336d6200b1389eb49c4b557ee42892345c2f727453ae82c96e6de94098e",
+      "accountType": "Form Create User",
+      "createdAt": 1694832688515,
+      "id": 2
+    }
+  ],
   "projects": [],
   "pages": [],
   "pageElements": []
