@@ -9,16 +9,6 @@
       "accountType": "Form Create User",
       "createdAt": 1694109048610,
       "id": 1
-    },
-    {
-      "name": "john doe",
-      "email": "johndoe@gmail.com",
-      "imageUrl": null,
-      "reference": "f7478193-89ee-4916-b5b1-8a1c4cdeda65",
-      "password": "90ecc336d6200b1389eb49c4b557ee42892345c2f727453ae82c96e6de94098e",
-      "accountType": "Form Create User",
-      "createdAt": 1694832688515,
-      "id": 2
     }
   ],
   "projects": [],
